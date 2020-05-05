@@ -1,0 +1,7 @@
+body {
+  background-color: #00BFFF;
+  color: #2F4F4F;
+  font-fmaily: 'Gill Sans', 'Gill Sans MT', Calibri, 'trebuchet MS', sans-serif;
+  text-align: center;
+}
+
